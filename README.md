@@ -1,10 +1,19 @@
 # Financial-Complaints-KPI-Dashboard
 
 ### Description:
-* Tableau project that tracks KPIs for a bank's financial complaints from customers. The data was created by Mark Bradbourne to simulate a real world scenario: [Data Source](https://data.world/markbradbourne/rwfd-real-world-fake-data)
-* The interactive dashboard is [Linked Here](https://public.tableau.com/views/FinancialComplaintsKPIDashboard_17003764360060/FinancialComplaintsDashnoard?:language=en-US&:display_count=n&:origin=viz_share_link)
+Tableau project that tracks KPIs for a bank's financial complaints from customers. The data was created by Mark Bradbourne to simulate a real world scenario: [Data Source](https://data.world/markbradbourne/rwfd-real-world-fake-data). The interactive dashboard is [Linked Here](https://public.tableau.com/views/FinancialComplaintsKPIDashboard_17003764360060/FinancialComplaintsDashnoard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+Dashboard Key Metrics:
 
+* Total complaints over time
+* Percent of complaints with a timely response
+* Count and percent of complaints in progress
+* Percent of complaints resolved at no cost
+* Issue and sub-issue count
+* Total complaints for each state
+* Count and percent of complaints from media type
+* Count of complaints for each financial product
+* Percent and count of complaints disputed by customer
 
 ### Tableau Dashboard:
 <img width="1308" alt="Screen Shot 2023-11-19 at 1 08 03 PM" src="https://github.com/stephenaigner/Financial-Complaints-KPI-Dashboard/assets/90224544/e0546760-e159-4809-b9fc-d613e0042ccb">
