@@ -3,7 +3,7 @@
 ### Description:
 Tableau project that tracks KPIs for a bank's financial complaints from customers. The data was created by Mark Bradbourne to simulate a real world scenario: [Data Source](https://data.world/markbradbourne/rwfd-real-world-fake-data). The interactive dashboard is [Linked Here](https://public.tableau.com/views/FinancialComplaintsKPIDashboard_17003764360060/FinancialComplaintsDashnoard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-Dashboard Key Metrics:
+Dashboard key metrics:
 
 * Total complaints over time
 * Percent of complaints with a timely response
